@@ -44,8 +44,9 @@ def draw(mass1):
     fig.savefig(f'Популяция.png')
     
     
-    
-    
+  #более красивый вывод массива 
+def mprint(che):
+    for x in che: print(x)   
     
     
     
